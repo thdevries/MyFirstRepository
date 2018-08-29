@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 123456789
-=======
-adsadas
->>>>>>> parent of 08ebc32... sdfs
